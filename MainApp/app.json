@@ -1,0 +1,46 @@
+{
+    "id": "8a40d10e-db43-4172-806e-88d64369a30b",
+    "name": "MKT Test",
+    "publisher": "NAVERTICA a.s.",
+    "brief": "My MainApp",
+    "description": "MKT Test",
+    "version": "24.0.0.0",
+    "privacyStatement": "https://www.navertica.com/company/privacy_policy",
+    "EULA": "https://www.navertica.com/eula/",
+    "help": "https://helpdesk.navertica.com",
+    "url": "https://www.navertica.com",
+    "logo": "Pictures/logo-navertica216x216.png",
+    "contextSensitiveHelpUrl": "https://help.navertica.com/{0}/",
+    "supportedLocales": [
+        "en-US",
+        "cs-CZ"
+    ],
+    "applicationInsightsConnectionString": "InstrumentationKey=4abd5841-4e53-43b4-9e08-43e5156ad812;IngestionEndpoint=https://westeurope-1.in.applicationinsights.azure.com/",
+    "application": "24.0.0.0",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "24.0.0.0",
+    "runtime": "13.0",
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": true
+    },
+    "features": [
+        "TranslationFile",
+        "NoImplicitWith",
+        "NoPromotedActionProperties"
+    ],
+    "idRanges": [
+        {
+            "from": 55300,
+            "to": 55339
+        }
+    ],
+    "preprocessorSymbols": [
+        "CLEAN19",
+        "CLEAN20",
+        "CLEAN21"
+    ],
+    "target": "Cloud"
+}

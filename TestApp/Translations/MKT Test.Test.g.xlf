@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="MKT Test.Test">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 813075531 - NamedType 865366345" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect ending number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR No Series Mask Tests - NamedType IncorrectEndingNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 813075531 - NamedType 1198613927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect starting date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR No Series Mask Tests - NamedType IncorrectStartingDate</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 813075531 - NamedType 3604317476" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect starting number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR No Series Mask Tests - NamedType IncorrectStartingNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 813075531 - NamedType 2150483329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series Line not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR No Series Mask Tests - NamedType NoSeriesLineNotFound</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1237628066 - NamedType 943747668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt is not Fully Invoiced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR Purch. Rcpt. Tests - NamedType FullyInvoicedFalseLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1237628066 - NamedType 1198504293" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt is Fully Invoiced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NVR Purch. Rcpt. Tests - NamedType FullyInvoicedTrueLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

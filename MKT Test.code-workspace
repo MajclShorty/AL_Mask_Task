@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": ".azuredevops"
+		},
+		{
+			"path": "MainApp"
+		},
+		{
+			"path": "TestApp"
+		},
+		{
+			"path": "Dependencies"
+		}
+	],
+	"settings": {
+		"navertical.IgnoreVerification": true,
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.RemovePrefixFromFilename": true,
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.RenameWithGit": true,
+		"al.codeAnalyzers": [
+			"${PerTenantExtensionCop}",
+			"${CodeCop}",
+			"${UICop}"
+		],
+		"al.enableCodeAnalysis": true,
+		"editor.formatOnSave": true,
+		"todohighlight.include": [
+			"**/*.js",
+			"**/*.jsx",
+			"**/*.ts",
+			"**/*.tsx",
+			"**/*.html",
+			"**/*.php",
+			"**/*.css",
+			"**/*.scss",
+			"**/*.al"
+		]
+	}
+}

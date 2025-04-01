@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="MKT Test">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 112956985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Uninvoiced receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 1976356074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uninvoiced receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Control1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 3792369418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the buy-from vendor number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Buy-from Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 1781611511 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the purchase receipt is fully invoiced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control NVR Fully Invoiced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the order number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 2995013107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity received not invoiced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Qty. Rcd. Not Invoiced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 61616130 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity invoiced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Quantity Invoiced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unit of measure code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Control Unit of Measure Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 1634400861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the dimensions assigned to the purch. uninv. receipt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowDimension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 1634400861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowDimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 127686680 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the document assigned to the document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 127686680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 2138210135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the order assigned to the order number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowOrder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 2138210135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 2645402902 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the tracked items.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowTrackingLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 112956985 - Action 2645402902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tracking lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NVR Purch. Uninv. Rcpt. - Action ShowTrackingLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3210117807 - Action 7521533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1351594800">
+          <source>Generate number series from the mask.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NVR No Series Mask Extension - Action NVR Generate from Mask - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3210117807 - Action 7521533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1351594800">
+          <source>Generate No. Series from Mask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NVR No Series Mask Extension - Action NVR Generate from Mask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3210117807 - Control 3874154918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1351594800">
+          <source>Specifies the mask for the number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NVR No Series Mask Extension - Control NVR No. Series Mask - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3210117807 - Field 3874154918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1351594800">
+          <source>Mask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NVR No Series Mask Extension - Field NVR No. Series Mask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2551164181 - Field 1781611511 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265">
+          <source>Specifies if the purchase receipt is fully invoiced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NVR Purch. Rcpt. - Field NVR Fully Invoiced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2551164181 - Field 1781611511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265">
+          <source>Fully Invoiced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NVR Purch. Rcpt. - Field NVR Fully Invoiced - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

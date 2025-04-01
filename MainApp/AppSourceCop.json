@@ -1,0 +1,38 @@
+{
+    "mandatoryAffixes":  [
+                             "NVR",
+                             "NVR "
+                         ],
+    "supportedCountries":  [
+                               "CZ",
+                               "GB",
+                               "US",
+                               "ZA",
+                               "DK",
+                               "AT",
+                               "CH",
+                               "DE",
+                               "AU",
+                               "CA",
+                               "NZ",
+                               "ZA",
+                               "ES",
+                               "MX",
+                               "EE",
+                               "FI",
+                               "BE",
+                               "FR",
+                               "IS",
+                               "IT",
+                               "JP",
+                               "KR",
+                               "NO",
+                               "BE",
+                               "NL",
+                               "PL",
+                               "RS",
+                               "SE",
+                               "HK",
+                               "TW"
+                           ]
+}

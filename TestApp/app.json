@@ -1,0 +1,89 @@
+{
+    "id": "dee7060b-e5a4-4aea-9222-f1e89f72ffe1",
+    "name": "MKT Test.Test",
+    "publisher": "NAVERTICA a.s.",
+    "brief": "Test App",
+    "description": "MKT Test.Test",
+    "version": "24.0.0.0",
+    "privacyStatement": "https://www.navertica.com/privacy_policy",
+    "EULA": "https://www.navertica.com/eula/",
+    "help": "https://helpdesk.navertica.com",
+    "url": "https://www.navertica.com",
+    "logo": "Pictures/logo-navertica216x216.png",
+    "contextSensitiveHelpUrl": "https://help.navertica.com/{0}/",
+    "supportedLocales": [
+        "en-US",
+        "cs-CZ"
+    ],
+    "applicationInsightsConnectionString": "InstrumentationKey=4abd5841-4e53-43b4-9e08-43e5156ad812;IngestionEndpoint=https://westeurope-1.in.applicationinsights.azure.com/",
+    "application": "24.0.0.0",
+    "dependencies": [
+        {
+            "id": "8a40d10e-db43-4172-806e-88d64369a30b",
+            "name": "MKT Test",
+            "publisher": "NAVERTICA a.s.",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+            "name": "Library Assert",
+            "publisher": "Microsoft",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+            "name": "Any",
+            "publisher": "Microsoft",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+            "name": "Test Runner",
+            "publisher": "Microsoft",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+            "name": "Tests-TestLibraries",
+            "publisher": "Microsoft",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "5095f467-0a01-4b99-99d1-9ff1237d286f",
+            "name": "Library Variable Storage",
+            "publisher": "Microsoft",
+            "version": "24.0.0.0"
+        },
+        {
+            "id": "267b59d3-7302-44c5-ba77-c87000380514",
+            "name": "Core Localization Pack for Czech",
+            "publisher": "Microsoft",
+            "version": "25.0.0.0"
+        }
+    ],
+    "screenshots": [],
+    "platform": "24.0.0.0",
+    "runtime": "13.0",
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": true
+    },
+    "features": [
+        "TranslationFile",
+        "NoImplicitWith",
+        "NoPromotedActionProperties"
+    ],
+    "idRanges": [
+        {
+            "from": 55340,
+            "to": 55349
+        }
+    ],
+    "preprocessorSymbols": [
+        "CLEAN19",
+        "CLEAN20",
+        "CLEAN21"
+    ],
+    "target": "Cloud"
+}
